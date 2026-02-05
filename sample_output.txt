@@ -1,0 +1,4 @@
+Password length: 12
+Entropy score: 78.45
+Strength: Strong
+SHA-256 hash: e3afed0047b08059d0fada10f400c1e5
